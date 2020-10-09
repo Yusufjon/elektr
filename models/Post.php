@@ -47,8 +47,8 @@ public function model(){
     {
         return [
             'id' => 'ID',
-            'title' => 'Sarlavha',
-            'description' => 'Mazmuni',
+            'title' => 'Сарлавха',
+            'description' => 'Мазмун',
         ];
     }
 }

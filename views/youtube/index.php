@@ -7,15 +7,15 @@ use yii\grid\GridView;
 /* @var $searchModel app\models\YoutubeSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Youtubes';
+$this->title = 'Видео киритиш';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
-<div class="youtube-index">
+<div class="Видео жойлаш">
 
     <h1><?= Html::encode($this->title) ?></h1>
 
     <p>
-        <?= Html::a('Create Youtube', ['create'], ['class' => 'btn btn-success']) ?>
+        <?= Html::a('Видеони жойланг', ['create'], ['class' => 'btn btn-success']) ?>
     </p>
 
     <?php // echo $this->render('_search', ['model' => $searchModel]); ?>
