@@ -157,8 +157,14 @@ AppAsset::register($this);
                             </li>
                             <li class="media">
                                 <i class="fas fa-envelope"></i>
-                                <div class="media-body"><a class="white" href="mailto:contact@tivo.com">admin@chaqmoq.uz</a> <i class="fas fa-globe"></i><a class="white" href="#your-link">www.chaqmoq.uz</a></div>
+                                <div class="media-body"><a class="white" href="#">admin@chaqmoqelektrik.uz</a></div>
                             </li>
+                            <li class="media">
+                                <i class="fa fa-globe"></i>
+                                <div class="media-body"><a class="white" href="www.chaqmoqelektrik.uz">www.chaqmoqelektrik.uz</a></div>
+                            </li>
+
+
                             <li class="media">
                                 <i class="fa fa-phone"></i>
                                 <div class="media-body"><a class="white">+998(95) 200-02-06</a></div><div class="media-body"><a class="white"> +998(93) 632-05-55</a></div>
